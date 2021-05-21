@@ -1,1 +1,1 @@
-# http://lab3a.github.io/index.html
+# http://lab3a.github.io
